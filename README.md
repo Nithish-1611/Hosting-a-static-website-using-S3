@@ -24,7 +24,10 @@ Step-by-Step Instructions:
 ![4](https://github.com/user-attachments/assets/99c4def6-e9d5-45e8-bd72-f03c501a40e5)
 
 ![Screenshot 2024-10-20 173814](https://github.com/user-attachments/assets/605007ad-9e4b-41bb-b873-90f3a284b72d)
+2. Upload Website Files
+~Open the created bucket and click "Upload".
 
+~Drag and drop your static website files (HTML, CSS, JS, etc.)
 ![Screenshot 2024-10-20 173835](https://github.com/user-attachments/assets/59489e64-9f3f-4efe-b30f-ed88fe69129c)
 
 ![Screenshot 2024-10-20 173913](https://github.com/user-attachments/assets/5dce8dae-59c8-4a2e-a2c7-3fc61baaad9d)
