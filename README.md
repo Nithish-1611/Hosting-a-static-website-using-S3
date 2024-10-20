@@ -13,13 +13,13 @@ Step-by-Step Instructions:
 
 ~Uncheck "Block all public access" to make the bucket publicly accessible.
 
-~Acknowledge the warning and click "Create Bucket".
-
 ![1](https://github.com/user-attachments/assets/cf9d4811-7eb2-4c24-8db7-122bdf34f909)
 
 ![2](https://github.com/user-attachments/assets/6be830b2-47dd-43c1-af8c-e180eff7cc8d)
 
 ![Screenshot 2024-10-20 175054](https://github.com/user-attachments/assets/9b680e80-e77a-4438-8a79-d97e7f1af113)
+
+~Acknowledge the warning and click "Create Bucket".
 
 ![4](https://github.com/user-attachments/assets/99c4def6-e9d5-45e8-bd72-f03c501a40e5)
 
