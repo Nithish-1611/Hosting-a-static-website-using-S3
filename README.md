@@ -1,5 +1,12 @@
 # Hosting-a-static-website-using-S3
-
+Step-by-Step Instructions:
+1. Create an S3 Bucket
+~Log into your AWS account and open the S3 Management Console.
+~Click "Create Bucket".
+~Choose a unique bucket name (e.g., my-website-bucket).
+~Select the region closest to you.
+~Uncheck "Block all public access" to make the bucket publicly accessible.
+~Acknowledge the warning and click "Create Bucket".
 ![1](https://github.com/user-attachments/assets/cf9d4811-7eb2-4c24-8db7-122bdf34f909)
 
 ![2](https://github.com/user-attachments/assets/6be830b2-47dd-43c1-af8c-e180eff7cc8d)
