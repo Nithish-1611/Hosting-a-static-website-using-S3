@@ -1,2 +1,3 @@
 # Hosting-a-static-website-using-S3
-![4](https://github.com/user-attachments/assets/6e9c5250-aa82-4b36-88df-800c4fb92ef2)
+
+![1](https://github.com/user-attachments/assets/cf9d4811-7eb2-4c24-8db7-122bdf34f909)
